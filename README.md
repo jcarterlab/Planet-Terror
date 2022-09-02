@@ -1,10 +1,10 @@
 # Planet-Terror
 
-This project uses a refined version of the terorrism risk headlines obtained in the author's [Risky Business.](R/Risky-Business.md) project to determine whether neural networks can perform classification tasks well on small data sets. Despite having only 128 terror event headlines, the models used here achieve an accuracy of over 90%.
+This project uses a refined version of the terorrism risk headlines obtained in the author's [Risky Business.](Risky-Business/blob/main/R/Risky-Business.md) project to determine whether neural networks can perform classification tasks well on small data sets. Despite having only 128 terror event headlines, the models used here achieve an accuracy of over 90%.
 
 <br/>
 
-The report can be found [here.](planet_terror.ipynb)
+The notebook can be found [here.](planet_terror.ipynb)
 
 <br/>
 
